@@ -1,3 +1,5 @@
+
+/* This applies to the body on the page */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
 body {
@@ -6,6 +8,10 @@ body {
 
 h1 {
   color: red;
+  font-size: 3em;
+}
+.intro {
+  color: magenta;
 }
 h2 {
   color: blue;
