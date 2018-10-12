@@ -1,3 +1,19 @@
-make words fancy
-more fanciness
-fantasy
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  font-family: "Roboto";
+}
+
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+nav a {
+  color: green;
+  text-decoration: none;
+}
+a {
+  color: orange;
+}
